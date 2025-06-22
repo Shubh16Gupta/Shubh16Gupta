@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shubh Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553.gif">
+<img align="right" alt="coding" width="300" src="https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553.gif">
 
 - 🔭 I’m currently working on **Portfolio Website**
 
@@ -60,7 +60,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh16gupta&show_icons=true&locale=en" alt="shubh16gupta" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh16gupta&" alt="shubh16gupta" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh16gupta&theme=dark" alt="shubh16gupta" />
 </p>
+
 
 </div>
