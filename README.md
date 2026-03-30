@@ -47,18 +47,23 @@
   </a> 
 </p>
 <hr>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubh16gupta&show_icons=true&locale=en&layout=compact" alt="shubh16gupta" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh16gupta&theme=dark" alt="shubh16gupta" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubh16gupta&show_icons=true&locale=en" alt="shubh16gupta" /></p>
-<br/><hr>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubh16gupta" alt="shubh16gupta" /></a> 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubh16gupta&show_icons=true&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubh16gupta&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubh16gupta&layout=compact&theme=dark" />
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubh16gupta&theme=react-dark" />
+</p>
 <br>
 
 </div>
