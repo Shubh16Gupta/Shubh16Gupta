@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://portfolioweb16.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shubhgupta-470sg/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:2008shubhgupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -26,29 +26,36 @@ const shubh = {
 
 ---
 
-## 🚀 What I Build
+## 🚀 Featured Projects
 
-- 🌿 Ayurveda Healthcare Platform → Traditional remedies + modern UI  
-- 🌾 Farmer Soil Analyzer → Smart crop & fertilizer recommendations  
-- 🌐 Club Websites → Improved engagement & UI  
+### 🌿 Ayurveda Healthcare Platform
+- Built a platform providing traditional remedy insights with modern UI  
+- Tech: React, Node.js  
+
+### 🌾 Farmer Soil Analyzer
+- Developed system to analyze soil data & suggest crops/fertilizers  
+- Tech: Python, Data Analysis  
+
+### 🌐 Club Websites
+- Designed & maintained websites improving engagement & usability  
+- Tech: MERN Stack 
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 Finalist — VITB-JHU Health Hack 2026 (Top 1000+ participants)  
-- ⚡ Participated in 5+ Hackathons  
-- 🏛️ Runner-Up — Regional Youth Parliament  
-- 🗳️ Ruling Party MP — Youth Parliament  
+- ⚡ Participated in 5+ National-Level Hackathons  
+- 🏛️ Runner-Up — Regional Youth Parliament (School Level)  
+- 🗳️ Ruling Party MP — College Youth Parliament   
 
 ---
 
 ## 🏭 Industrial Exposure
 
-- Visited Appointy  
-- Learned working of LLMs (Large Language Models)  
-- Understood real-world AI system integration  
-
+- 🏢 Visited Appointy  
+- 🤖 Gained understanding of Large Language Models (LLMs) and their real-world applications  
+- ⚙️ Explored how AI systems are integrated into production environments  
 ---
 
 ## 🛠️ Tech Stack
@@ -62,12 +69,8 @@ const shubh = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubh16gupta&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=shubh16gupta&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh16gupta&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="./profile/stats.svg" height="170"/>
+  <img src="./profile/langs.svg" height="170"/>
 </p>
 
 ---
@@ -88,6 +91,17 @@ const shubh = {
 
 ---
 
+---
+
+## 🎯 About My Work
+
+- 💻 Focused on building real-world full stack applications  
+- 🧠 Interested in backend systems and AI/ML integration  
+- 🚀 Passionate about solving practical problems using technology  
+
+---
+
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -97,4 +111,4 @@ const shubh = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,50:1a1a1a,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,50:1a1a1a,100:000000&height=90&section=footer"/>
