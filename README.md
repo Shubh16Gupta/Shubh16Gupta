@@ -1,13 +1,27 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:2c2c2c&height=200&section=header&text=Shubh%20Gupta&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Finalist%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=16&descColor=bbbbbb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,70:161b22,100:21262d&height=220&section=header&text=Shubh%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Finalist%20%7C%20Tech%20Enthusiast&descAlignY=62&descSize=17&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Hackathon+Finalist;Building+Real+World+Projects;Exploring+AI+%26+LLMs" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Full+Stack+Apps+%F0%9F%9A%80;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Hackathon+Finalist+%7C+5%2B+National+Hackathons;Open+to+Collaborations+%26+Opportunities" />
 </p>
 
 <p align="center">
-  <a href="https://portfolioweb16.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shubhgupta-470sg/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:2008shubhgupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolioweb16.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shubhgupta-470sg/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:2008shubhgupta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shubh16Gupta">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubh16Gupta&label=Profile+Views&color=58a6ff&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Shubh16Gupta?label=Followers&style=flat&color=58a6ff" />
 </p>
 
 ---
@@ -16,52 +30,104 @@
 
 ```js
 const shubh = {
-  role: "Full Stack Developer",
-  education: "B.Tech Student",
-  skills: ["Web Dev", "Data Analysis", "Problem Solving"],
-  currentFocus: ["Backend", "AI/ML", "Scalable Apps"],
-  funFact: "I love turning real-world problems into tech solutions 🚀"
+  role        : "Full Stack Developer",
+  education   : "B.Tech CSE Student",
+  skills      : ["Web Dev", "Data Analysis", "Problem Solving"],
+  currentFocus: ["Backend Architecture", "AI/ML", "Scalable Apps"],
+  achievements: ["VITB-JHU Health Hack 2026 Finalist", "5+ National Hackathons"],
+  funFact     : "I love turning real-world problems into tech solutions 🚀"
 };
 ```
+
+> 💡 *"Code is not just syntax — it's a solution waiting to happen."*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌿 Ayurveda Healthcare Platform
-- Built a platform providing traditional remedy insights with modern UI  
-- Tech: React, Node.js  
-
-### 🌾 Farmer Soil Analyzer
-- Developed system to analyze soil data & suggest crops/fertilizers  
-- Tech: Python, Data Analysis  
-
-### 🌐 Club Websites
-- Designed & maintained websites improving engagement & usability  
-- Tech: MERN Stack 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌿 Ayurveda Healthcare Platform</h3>
+      <p>Built a platform providing traditional remedy insights with a modern UI, bridging ancient knowledge and technology.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🌾 Farmer Soil Analyzer</h3>
+      <p>Developed a system to analyze soil data and intelligently suggest crops and fertilizers for optimal yield.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data%20Analysis-FF6F00?style=flat-square&logo=pandas&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Club Websites</h3>
+      <p>Designed and maintained club websites using MERN stack, significantly improving engagement and usability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI/ML Explorations</h3>
+      <p>Actively exploring LLM integrations and AI-driven features for production-grade scalable applications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
-- 🥇 Finalist — VITB-JHU Health Hack 2026 (Top 1000+ participants)  
-- ⚡ Participated in 5+ National-Level Hackathons  
-- 🏛️ Runner-Up — Regional Youth Parliament (School Level)  
-- 🗳️ Ruling Party MP — College Youth Parliament   
+<table>
+  <tr>
+    <td>🥇</td>
+    <td><strong>Finalist — VITB-JHU Health Hack 2026</strong></td>
+    <td>Top among 1000+ participants</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><strong>5+ National-Level Hackathons</strong></td>
+    <td>Consistent competitor across India</td>
+  </tr>
+  <tr>
+    <td>🏛️</td>
+    <td><strong>Runner-Up — Regional Youth Parliament</strong></td>
+    <td>School Level</td>
+  </tr>
+  <tr>
+    <td>🗳️</td>
+    <td><strong>Ruling Party MP — College Youth Parliament</strong></td>
+    <td>Leadership & public speaking</td>
+  </tr>
+</table>
 
 ---
 
 ## 🏭 Industrial Exposure
 
-- 🏢 Visited Appointy  
-- 🤖 Gained understanding of Large Language Models (LLMs) and their real-world applications  
-- ⚙️ Explored how AI systems are integrated into production environments  
+| Company | Insight |
+|--------|---------|
+| 🏢 **Appointy** | Understood how SaaS products scale and serve global users |
+| 🤖 **LLMs Deep Dive** | Explored real-world applications of Large Language Models |
+| ⚙️ **AI in Production** | Studied how AI systems are integrated into production environments |
+
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,python,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,python,mysql,mongodb,git,github,vscode,postman&perline=8" />
 </p>
 
 ---
@@ -69,46 +135,57 @@ const shubh = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170"/>
-  <img src="./profile/langs.svg" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubh16Gupta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh16Gupta&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubh16gupta/shubh16gupta/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=Shubh16Gupta&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </p>
 
 ---
 
-## 🎯 Current Focus
-
-- 🚀 Building scalable full stack apps  
-- 🤖 Exploring AI & LLMs  
-- 📊 Improving backend + data skills  
-
----
-
----
-
-## 🎯 About My Work
-
-- 💻 Focused on building real-world full stack applications  
-- 🧠 Interested in backend systems and AI/ML integration  
-- 🚀 Passionate about solving practical problems using technology  
-
----
-
-
-## 🤝 Connect With Me
+## 🐍 Contribution Graph
 
 <p align="center">
-<a href="https://linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:2008shubhgupta@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/Shubh16Gupta/Shubh16Gupta/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,50:1a1a1a,100:000000&height=90&section=footer"/>
+## 🎯 Currently Working On
+
+```text
+🚀  Building scalable full stack applications
+🤖  Integrating AI & LLMs into real-world products
+📊  Sharpening backend architecture & data skills
+🌱  Contributing to open source projects
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/shubhgupta-470sg">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:2008shubhgupta@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Shubh16Gupta">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolioweb16.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=vite" height="45"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to internships, collaborations, and exciting projects!</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
