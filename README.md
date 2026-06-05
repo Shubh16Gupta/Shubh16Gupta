@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1117,70:161b22,100:21262d&height=220&section=header&text=Shubh%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Hackathon%20Finalist%20%7C%20Tech%20Enthusiast&descAlignY=62&descSize=17&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Full+Stack+Apps+%F0%9F%9A%80;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Hackathon+Finalist+%7C+5%2B+National+Hackathons;Open+to+Collaborations+%26+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Full+Stack+Apps+%F0%9F%9A%80;Exploring+AI+%26+LLMs+%F0%9F%A4%96;Hackathon+Finalist+%7C+5%2B+Regional+Hackathons;Open+to+Collaborations+%26+Opportunities" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ const shubh = {
   education   : "B.Tech CSE Student",
   skills      : ["Web Dev", "Data Analysis", "Problem Solving"],
   currentFocus: ["Backend Architecture", "AI/ML", "Scalable Apps"],
-  achievements: ["VITB-JHU Health Hack 2026 Finalist", "5+ National Hackathons"],
+  achievements: ["VITB-JHU Health Hack 2026 Finalist", "5+ Regional Hackathons"],
   funFact     : "I love turning real-world problems into tech solutions 🚀"
 };
 ```
@@ -97,7 +97,7 @@ const shubh = {
   </tr>
   <tr>
     <td>⚡</td>
-    <td><strong>5+ National-Level Hackathons</strong></td>
+    <td><strong>5+ Regional-Level Hackathons</strong></td>
     <td>Consistent competitor across India</td>
   </tr>
   <tr>
@@ -135,8 +135,12 @@ const shubh = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubh16Gupta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh16Gupta&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubh16Gupta&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubh16Gupta&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubh16Gupta&theme=github_dark" width="100%"/>
 </p>
 
 <p align="center">
